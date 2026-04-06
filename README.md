@@ -18,7 +18,6 @@ Preferencias: Tema visual, modo científico, modo radianes/grados (almacenado lo
 2.3 Imágenes y OCR
 Cámara y galería: Accedemos a la cámara y galería solo cuando tú lo solicitas para escanear problemas matemáticos.
 Procesamiento de imágenes: Las fotos se procesan con:
-ML Kit (Google): Reconocimiento de texto local en tu dispositivo.
 Gemini AI (Google): Reconocimiento y resolución de problemas complejos (requiere enviar la imagen a servidores de Google).
 Almacenamiento: Las imágenes NO se guardan permanentemente. Solo se almacenan temporalmente en cache durante el procesamiento y se eliminan al cerrar la app.
 2.4 Datos de Terceros (AdMob)
